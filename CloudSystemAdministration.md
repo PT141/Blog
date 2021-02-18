@@ -2,6 +2,7 @@
  State what the advantages of Virtual Machines are
   
   Fast to create and destroy
+  
   Programmable
     Can be orchestrated via software
   Can be moved to another physical machine
