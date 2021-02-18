@@ -3,9 +3,9 @@
   
   * Fast to create and destroy
   
-  *Programmable
+  * Programmable
     
-   *Can be orchestrated via software
+   * Can be orchestrated via software
   
   Can be moved to another physical machine
   
