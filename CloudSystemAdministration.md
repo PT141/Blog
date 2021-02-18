@@ -29,6 +29,7 @@
   Multiple processes that need CPU time
   
   Not a lot of disk space available
+ ___________________________________________________
   
  I think the cloud would aid microservices by allowing users to access a or update a microservice whenever and wherever they want. Microservice architecture allows worker to isolate a problem
  and quickly fix it. Cloud storage would just streamline that process by allowing the worker to access it and fix the issue whenever. The company would also not have to worry about
