@@ -5,7 +5,7 @@
   
   * Programmable
     
-   * Can be orchestrated via software
+    * Can be orchestrated via software
   
   Can be moved to another physical machine
   
