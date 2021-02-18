@@ -7,28 +7,28 @@
     
     * Can be orchestrated via software
   
-  Can be moved to another physical machine
+  * Can be moved to another physical machine
   
-  Allowed to emulate at a chip and device level
+  * Allowed to emulate at a chip and device level
  ___________________________________________________
  State what the advantages of containers are
   
-  Less wasteful than VM
+  * Less wasteful than VM
   
-  Changes affect all the processes (memory limit, disk bandwidth)
+  * Changes affect all the processes (memory limit, disk bandwidth)
   
-  Can affect other processes in the same container
+  * Can affect other processes in the same container
   
-  Do not require an entire operating system
+  * Do not require an entire operating system
   
  ___________________________________________________
  State when you might select physical machines over virtual machines
   
-  When you have one process that needs many cores or generates a huge amount of network traffic
+  * When you have one process that needs many cores or generates a huge amount of network traffic
   
-  Multiple processes that need CPU time
+  * Multiple processes that need CPU time
   
-  Not a lot of disk space available
+  * Not a lot of disk space available
  ___________________________________________________
   
  I think the cloud would aid microservices by allowing users to access a or update a microservice whenever and wherever they want. Microservice architecture allows worker to isolate a problem
