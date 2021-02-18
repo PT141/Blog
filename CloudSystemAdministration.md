@@ -26,7 +26,7 @@
   
   * When you have one process that needs many cores or generates a huge amount of network traffic
   
-  * Multiple processes that need CPU time
+  * Multiple processes that need use almost all CPU time
   
   * Not a lot of disk space available
  ___________________________________________________
