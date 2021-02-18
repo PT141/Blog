@@ -4,8 +4,11 @@
   Fast to create and destroy
   
   Programmable
+    
     Can be orchestrated via software
+  
   Can be moved to another physical machine
+  
   Allowed to emulate at a chip and device level
  
  State what the advantages of containers are
