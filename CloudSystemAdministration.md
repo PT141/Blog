@@ -10,8 +10,7 @@
   Can be moved to another physical machine
   
   Allowed to emulate at a chip and device level
- 
- 
+ ___________________________________________________
  State what the advantages of containers are
   
   Less wasteful than VM
@@ -22,7 +21,7 @@
   
   Do not require an entire operating system
   
- 
+ ___________________________________________________
  State when you might select physical machines over virtual machines
   
   When you have one process that needs many cores or generates a huge amount of network traffic
