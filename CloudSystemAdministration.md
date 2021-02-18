@@ -1,5 +1,5 @@
 # Blog
- State what the advantages of Virtual Machines are 
+ State what the advantages of Virtual Machines are \n
   Fast to create and destroy
   Programmable
     Can be orchestrated via software
